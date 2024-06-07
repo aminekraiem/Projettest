@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test authentification cas nom passant Coordonnées invalides</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f697c356-1c5e-4846-816f-a409c1a07f53</testCaseGuid>
+</TestCaseEntity>
